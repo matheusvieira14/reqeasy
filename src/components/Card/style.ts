@@ -3,6 +3,7 @@ import { styled } from '@stitches/react'
 export const ContainerCard = styled('div', {
     display: "flex",
     flexDirection: "column",
+    position: "relative !important",
     padding: "1rem 2rem",
     background: "#E0E0E0",
     borderRadius: "0.3125rem",

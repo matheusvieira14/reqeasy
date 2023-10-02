@@ -18,6 +18,10 @@ export const ContainerNavBar = styled('div', {
             marginBottom: "4rem",
             cursor: "pointer",
         },
+
+        "& > button:last-child": {
+            marginBottom: "0",
+        },
     },
 })
 
@@ -40,7 +44,7 @@ export const ButtonMenu = styled("button", {
     position: "relative",
 
     "&:hover": {
-        color: "#fff",
+        color: "#2F80ED",
     },
 
     variants: {

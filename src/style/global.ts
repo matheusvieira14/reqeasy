@@ -18,4 +18,8 @@ export const globalStyles = globalCss({
         fontWeight: "$regular"
     },
 
+    a: {
+        textDecoration: "none",
+        color: "inherit"
+    }
 })

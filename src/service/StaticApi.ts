@@ -27,3 +27,62 @@ export const CARD_API = [
         updated_at: "20/09/2023",
     },
 ]
+
+export const TASK_API = [
+    {
+        id: 1,
+        description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
+        status: "Processo",
+        priority: "high",
+        created_at: "20/09/2023",
+        updated_at: "20/09/2023",
+    },
+    {
+        id: 2,
+        description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
+        status: "Processo",
+        priority: "medium",
+        created_at: "20/09/2023",
+        updated_at: "20/09/2023",
+    },
+    {
+        id: 3,
+        description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
+        status: "Processo",
+        priority: "low",
+        created_at: "20/09/2023",
+        updated_at: "20/09/2023",
+    },
+    {
+        id: 4,
+        description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
+        status: "Processo",
+        priority: "low",
+        created_at: "20/09/2023",
+        updated_at: "20/09/2023",
+    },
+    {
+        id: 5,
+        description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
+        status: "Processo",
+        priority: "low",
+        created_at: "20/09/2023",
+        updated_at: "20/09/2023",
+    },
+    {
+        id: 6,
+        description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
+        status: "Processo",
+        priority: "low",
+        created_at: "20/09/2023",
+        updated_at: "20/09/2023",
+    },
+    {
+        id: 7,
+        description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.`,
+        status: "Processo",
+        priority: "low",
+        created_at: "20/09/2023",
+        updated_at: "20/09/2023",
+    },
+]
